@@ -1,0 +1,84 @@
+.bg1{
+   background-image: url(Hero-bg.png);
+   background-repeat: no-repeat;
+   background-size: cover
+}
+.png{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.intro{
+    text-align: center;
+    font-size: 48px;
+    font-weight: bolder;
+}
+.group{
+    align-content: center;
+}
+.description{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 200px;
+    margin:24px 73px;
+    /* margin-bottom: 142px; */
+}
+.btn{
+    width: 244px;
+    height: 65px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 45px;
+}
+.why{
+    background-color: rgba(13, 19, 33, 0.02);
+    height: 1393px;
+    width: 1140px;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title{
+   height: 1233px;
+   width: 946px;
+  padding: 5%;
+  margin-top: 10%;
+}
+.head1{
+    display:flex;
+    background-color: white;
+    border-radius: 16px;
+    width: 946px;
+    height:336px;
+    margin-top: 5%;
+}
+.head2{
+    display: flex;
+}
+.head3{
+    display: flex;
+}
+.btn2{
+    height: 47px;
+    width: 171px;
+    font-size: 20px;
+    font-weight: 800px;
+    border: solid;
+}
+.btn2:hover{
+    height: 47px;
+    width: 171px;
+    background-color: rgb(96, 115, 243);
+}
+.im1{
+    height:240px ;
+    width: 274px;
+    margin-left: auto;
+    margin-right: 30%;
+}
