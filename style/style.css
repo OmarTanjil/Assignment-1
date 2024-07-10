@@ -192,3 +192,25 @@
     font-size: 20px;
     font-weight: 800px;
 }
+.foot{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    background-color: rgba(13, 19, 33, 0.03);
+    
+}
+.icon ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 100%; */
+}
+.title-last{
+    /* margin-right: ; */
+    justify-content: center;
+    align-items: center;
+}
+.icon ul li{
+    list-style: none;
+    margin-left: 50px;
+}
