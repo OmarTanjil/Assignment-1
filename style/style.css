@@ -1,7 +1,8 @@
 .bg1{
    background-image: url(Hero-bg.png);
    background-repeat: no-repeat;
-   background-size: cover
+   background-size: cover;
+   height: 600px;
 }
 .png{
     display: block;
@@ -34,7 +35,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 45px;
+    margin-bottom: 100px;
 }
 .why{
     background-color: rgba(13, 19, 33, 0.02);
@@ -47,8 +48,9 @@
 .title{
    height: 1233px;
    width: 946px;
-  padding: 5%;
+  padding: 10%;
   margin-top: 10%;
+  margin-bottom: 100%;
 }
 .head1{
     display:flex;
